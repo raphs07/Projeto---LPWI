@@ -1,0 +1,24 @@
+{
+  "name": "projeto---lpwi",
+  "version": "1.0.0",
+  "description": "Atividade para Formulário --- 2° Bimestre\r | Alunas: Raphaela Pereira de Sousa e Vitória de Sousa Melo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphs07/Projeto---LPWI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphs07/Projeto---LPWI/issues"
+  },
+  "homepage": "https://github.com/raphs07/Projeto---LPWI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
